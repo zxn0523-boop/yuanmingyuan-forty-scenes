@@ -1,0 +1,4 @@
+interface:
+  display_name: "圆明园四十景图"
+  short_description: "将古建筑 SU 截图转为清代宫廷界画式园林复原图"
+  default_prompt: "使用 $yuanmingyuan-forty-scenes 将这张 SU 古建筑截图转换为圆明园四十景图式园林复原画，并输出现状设色版与历史校色版。"
