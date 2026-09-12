@@ -10,7 +10,7 @@
 
 ```text
 请安装这个 Codex Skill：
-https://github.com/zxn0523-boop/Yuanmingyuan
+https://github.com/zxn0523-boop/yuanmingyuan-forty-scenes
 
 仓库根目录就是 Skill，安装名使用 yuanmingyuan-forty-scenes。
 ```
@@ -82,7 +82,7 @@ https://github.com/zxn0523-boop/Yuanmingyuan
 macOS / Linux：
 
 ```bash
-git clone https://github.com/zxn0523-boop/Yuanmingyuan.git \
+git clone https://github.com/zxn0523-boop/yuanmingyuan-forty-scenes.git \
   "${CODEX_HOME:-$HOME/.codex}/skills/yuanmingyuan-forty-scenes"
 ```
 
@@ -90,6 +90,6 @@ Windows PowerShell：
 
 ```powershell
 $codexRoot = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $HOME '.codex' }
-git clone https://github.com/zxn0523-boop/Yuanmingyuan.git `
+git clone https://github.com/zxn0523-boop/yuanmingyuan-forty-scenes.git `
   (Join-Path $codexRoot 'skills\yuanmingyuan-forty-scenes')
 ```
