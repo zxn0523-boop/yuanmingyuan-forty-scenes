@@ -1,6 +1,6 @@
 # 圆明园四十景图
 
-`yuanmingyuan-forty-scenes` 是一个 Codex Skill，可以把 SketchUp（SU）古建筑截图转换为《圆明园四十景图》式清代宫廷界画山水复原图。
+`yuanmingyuan-forty-scenes` 是一个 Codex Skill，可以把 SketchUp/Rhino等建模软件的古建筑截图转换为《圆明园四十景图》式清代宫廷界画山水复原图。
 
 ## 示例
 
