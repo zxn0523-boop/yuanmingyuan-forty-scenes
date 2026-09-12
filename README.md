@@ -4,7 +4,23 @@
 
 ## 示例
 
-此处是示例
+下面是同一张“畅观堂光绪”SU 截图，以及 Skill 默认生成的两种配对结果。
+
+### 输入｜SU 截图＋黄色地形色块
+
+![畅观堂光绪 SU 截图与黄色地形色块](examples/changguantang-su-input.png)
+
+### A｜现状设色版
+
+保留 SU 建筑颜色的相对关系。
+
+![畅观堂光绪现状设色版](examples/changguantang-a-current-color.png)
+
+### B｜历史校色版
+
+将偏鲜艳的现代建模色调整为更接近《圆明园四十景图》的历史设色。
+
+![畅观堂光绪历史校色版](examples/changguantang-b-historical-color.png)
 
 ## 30 秒上手
 
